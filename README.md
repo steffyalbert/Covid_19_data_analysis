@@ -1,11 +1,11 @@
 ADS_COVID-19
 ==============================
 
- ├──  Goal of the project is to apply a cross industry standard process,
+ Goal of the project is to apply a cross industry standard process,
     it covers the full walkthrough of: automated data gathering, data transformations,
     filtering and machine learning to approximating the doubling time, and
     (static) deployment of responsive dashboard.
- ├──  Run /notebooks/Evaluation_Walk_through_1.0.ipynb for the dynamic dashboard
+ Run /notebooks/Evaluation_Walk_through_1.0.ipynb for the dynamic dashboard
 
 Project Organization
 ------------
