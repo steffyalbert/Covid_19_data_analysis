@@ -5,7 +5,11 @@ ADS_COVID-19
     it covers the full walkthrough of: automated data gathering, data transformations,
     filtering and machine learning to approximating the doubling time, and
     (static) deployment of responsive dashboard.
- Run /notebooks/Evaluation_Walk_through_1.0.ipynb for the dynamic dashboard
+    
+ Run /notebooks/Evaluation_Walk_through_1.0.ipynb for the COVID_19 dynamic dashboard.
+ 
+ Run /notebooks/SIR_modeling_dynamic-dashboard.ipynb for the SIR model dynamic dashboard.
+ 
 
 Project Organization
 ------------
